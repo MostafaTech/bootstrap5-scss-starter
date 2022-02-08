@@ -1,0 +1,14 @@
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+$theme-bg: #000000;
+$theme-default-color: #ffffff;
+$theme-primary-color: #3213e6;
+
+body {
+  background-color: $theme-bg;
+  color: $theme-default-color;
+}
+
+.subtitle {
+  color: $theme-primary-color;
+}
